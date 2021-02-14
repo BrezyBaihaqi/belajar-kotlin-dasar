@@ -45,7 +45,7 @@ fun main() {
     // Tail Recursive Function dengan Factorial
     // menambahkan parameter karena else tidak bisa menambahkan value
     tailrec fun factorialRecursive(value: Int, total: Int = 1): Int {
-        println("fR ke $total")
+        println("value $value, total $total")
 
         return when(value) {
             // jika value bernilai 1 maka yg di kembalikan adalah total
