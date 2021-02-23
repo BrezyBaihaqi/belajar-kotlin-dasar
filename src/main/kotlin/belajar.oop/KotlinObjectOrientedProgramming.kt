@@ -17,7 +17,11 @@ package oop
  * tanpa Class tidak tidak bisa membuat Object. Sebuah Class bisa menurunkan Object tanpa batas
  * seperti saat kita membuat Variabel dari Number atau lainnya, Variabel itu adalah Object dari kelas Number
  * dari Number itu kita bisa membuat banyak Variabel atau Class. Artinya blueprint (Object Numbernya) cuma 1 tapi Classnya bisa banyak
- *
+
+ * cara membuat file Class :
+ * 1. Kata kunci Class
+ * 2. Nama Class dan File disarankan sama agar mempermudah dan rapih saat proses coding
+
  * Contoh Class dan Object: Person
  * kita membuat blueprint (Class) Person dengan :
  * 1. properties String firstName; lastName
