@@ -1,4 +1,0 @@
-package 'belajaroop'
-
-class Address {
-}
